@@ -1,0 +1,14 @@
+[
+  {"pergunta":"Perdi meu RG. Como tiro outro?", "servico_esperado":"cin"},
+  {"pergunta":"Onde emitir a Carteira de Identidade Nacional?", "servico_esperado":"cin"},
+  {"pergunta":"Meu CPF está irregular, como resolvo?", "servico_esperado":"cpf"},
+  {"pergunta":"Como faço minha carteira de trabalho digital?", "servico_esperado":"trabalho"},
+  {"pergunta":"Como tirar meu primeiro título de eleitor?", "servico_esperado":"eleitoral"},
+  {"pergunta":"Quero me inscrever no Cadastro Único", "servico_esperado":"cadunico"},
+  {"pergunta":"Onde vejo meu Cartão SUS digital?", "servico_esperado":"sus"},
+  {"pergunta":"Como criar uma conta gov.br?", "servico_esperado":"govbr"},
+  {"pergunta":"Preciso procurar um CRAS", "servico_esperado":"cadunico"},
+  {"pergunta":"Como acessar o e-Título?", "servico_esperado":"eleitoral"},
+  {"pergunta":"Qual o preço de um computador gamer?", "servico_esperado":null},
+  {"pergunta":"Me indique um restaurante", "servico_esperado":null}
+]

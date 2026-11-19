@@ -1,0 +1,287 @@
+[
+  {
+    "id": "cin",
+    "nome": "Carteira de Identidade Nacional (CIN)",
+    "categoria": "Documentos",
+    "descricao": "Como emitir a nova identidade e procurar atendimento no seu estado.",
+    "atalhos": [
+      "perdi meu rg",
+      "segunda via rg",
+      "identidade",
+      "rg",
+      "cin",
+      "carteira de identidade",
+      "documento de identidade",
+      "nova identidade",
+      "segunda via identidade"
+    ],
+    "orientacoes": [
+      "Procure o Instituto de Identificação do seu estado ou do Distrito Federal para saber como agendar a emissão da CIN.",
+      "Confira as exigências locais: certidão de nascimento ou casamento é um documento geralmente necessário para a emissão.",
+      "Verifique no portal estadual se o atendimento exige agendamento e quais unidades estão disponíveis.",
+      "A primeira emissão em papel da CIN é gratuita; eventuais segundas vias podem seguir regras estaduais."
+    ],
+    "observacoes": "Documentos, agendamento e taxas de segunda via podem variar conforme o estado. Não informe CPF ou outros documentos neste chat.",
+    "fontes": [
+      {
+        "titulo": "Governo Digital — Carteira de Identidade Nacional",
+        "orgao": "Governo Federal",
+        "url": "https://www.gov.br/governodigital/pt-br/identidade/cin"
+      },
+      {
+        "titulo": "Onde emitir a nova identidade",
+        "orgao": "Governo Federal",
+        "url": "https://www.gov.br/governodigital/pt-br/identidade/identificacao-do-cidadao-e-carteira-de-identidade-nacional/duvidas-frequentes-sobre-a-cin-campanha"
+      }
+    ]
+  },
+  {
+    "id": "cpf",
+    "nome": "CPF — inscrição e regularização",
+    "categoria": "Documentos",
+    "descricao": "Informações para obter, consultar ou atualizar o CPF.",
+    "atalhos": [
+      "cpf",
+      "cadastro de pessoa fisica",
+      "inscricao cpf",
+      "regularizar cpf",
+      "cpf irregular",
+      "segunda via cpf",
+      "consultar cpf"
+    ],
+    "orientacoes": [
+      "Para obter um número de CPF pela primeira vez, use o serviço de inscrição online da Receita Federal ou um canal de atendimento disponível para seu caso.",
+      "Se preferir atendimento presencial, verifique unidades da Receita Federal, Pontos de Atendimento Virtual (PAV) e estabelecimentos conveniados: Banco do Brasil, Caixa, Correios ou cartórios conveniados. Confirme se a unidade específica realiza o serviço antes de sair de casa.",
+      "A inscrição pelo serviço digital da Receita Federal é gratuita. O atendimento na rede conveniada pode cobrar até R$ 7,00, conforme a página oficial do serviço.",
+      "Se precisar apenas de uma segunda via do comprovante, o cartão de CPF em plástico não é mais emitido: obtenha o comprovante digital ou imprima-o pelo portal oficial.",
+      "Se o pedido gerar protocolo para finalizar em atendimento, siga as orientações oficiais quanto ao envio de documentos ou à unidade da Receita Federal indicada."
+    ],
+    "observacoes": "CPF é inscrição em cadastro, não retirada obrigatória de cartão físico. A disponibilidade, o agendamento e a documentação variam segundo o canal e a situação. O portal da Receita Federal oferece canais digitais e presenciais. Nunca envie seu CPF neste chat.",
+    "fontes": [
+      {
+        "titulo": "Receita Federal — Meu CPF",
+        "orgao": "Receita Federal",
+        "url": "https://www.gov.br/receitafederal/pt-br/assuntos/meu-cpf"
+      },
+      {
+        "titulo": "Inscrever-se no CPF",
+        "orgao": "Portal gov.br",
+        "url": "https://www.gov.br/pt-br/servicos/inscrever-no-cpf"
+      },
+      {
+        "titulo": "Receita Federal — Atendimento presencial e conveniados",
+        "orgao": "Receita Federal",
+        "url": "https://www.gov.br/receitafederal/pt-br/canais_atendimento/fale-conosco/presencial"
+      },
+      {
+        "titulo": "Obter comprovante de inscrição no CPF",
+        "orgao": "Portal gov.br",
+        "url": "https://www.gov.br/pt-br/servicos/obter-cartao-de-cpf"
+      }
+    ],
+    "informacoes_uteis": {
+      "para_inscrever": "Inscrição nova: formulário digital da Receita Federal; também unidades da Receita, PAV, e-mail e rede conveniada quando disponíveis.",
+      "onde_ir_presencial": "Unidades da Receita Federal, PAV e unidades conveniadas do Banco do Brasil, Caixa Econômica Federal, Correios e cartórios de registro civil conveniados. Nem toda unidade realiza o serviço; confirme previamente.",
+      "custos": "Inscrição no portal da Receita Federal: gratuita. Em unidades conveniadas: até R$ 7,00 segundo o serviço oficial.",
+      "comprovante": "Cartão físico de CPF em plástico não é mais emitido. Para quem já tem CPF, é possível obter/imprimir o comprovante pela internet.",
+      "protocolo": "Se o sistema emitir protocolo de atendimento, siga a instrução do serviço oficial sobre apresentar documentos ou procurar a Receita Federal.",
+      "agendamento": "A necessidade de agendar e o canal variam. Não há agendamento realizado por este assistente."
+    },
+    "perguntas_frequentes": [
+      {
+        "pergunta": "Em qual agência posso fazer meu CPF presencialmente?",
+        "resposta": "Em unidades da Receita Federal, PAV e conveniados, como Banco do Brasil, Caixa, Correios e cartórios conveniados, conforme disponibilidade. Confira a unidade e se há necessidade de agendamento."
+      },
+      {
+        "pergunta": "Quanto custa emitir o CPF?",
+        "resposta": "A inscrição digital pela Receita Federal é gratuita. A rede conveniada pode cobrar até R$ 7,00."
+      },
+      {
+        "pergunta": "Preciso retirar um cartão físico de CPF?",
+        "resposta": "Não. O cartão plástico não é mais emitido; quem já tem inscrição pode acessar o comprovante e imprimi-lo pelo portal oficial."
+      },
+      {
+        "pergunta": "E se eu não conseguir terminar a inscrição online?",
+        "resposta": "Se houver protocolo, siga o atendimento indicado pela Receita Federal; o portal também informa canais presenciais e outros canais disponíveis."
+      }
+    ]
+  },
+  {
+    "id": "trabalho",
+    "nome": "Carteira de Trabalho Digital",
+    "categoria": "Trabalho",
+    "descricao": "Como acessar a CTPS Digital e consultar vínculos registrados.",
+    "atalhos": [
+      "carteira de trabalho",
+      "ctps",
+      "ctps digital",
+      "carteira profissional",
+      "contrato de trabalho",
+      "vinculo trabalhista",
+      "trabalho digital"
+    ],
+    "orientacoes": [
+      "Acesse o serviço oficial de Carteira de Trabalho Digital ou instale o aplicativo correspondente.",
+      "Faça o acesso pelo login oficial gov.br, diretamente no serviço do governo.",
+      "Verifique os contratos de trabalho e informações disponibilizadas na plataforma.",
+      "Se houver inconsistências, consulte os canais oficiais indicados pelo Ministério do Trabalho e Emprego."
+    ],
+    "observacoes": "O sistema não emite carteira de trabalho, não solicita senha gov.br e não acessa seus registros profissionais.",
+    "fontes": [
+      {
+        "titulo": "Obter a Carteira de Trabalho",
+        "orgao": "Portal gov.br",
+        "url": "https://www.gov.br/pt-br/servicos/obter-a-carteira-de-trabalho"
+      },
+      {
+        "titulo": "Aplicativo CTPS Digital",
+        "orgao": "Portal gov.br",
+        "url": "https://www.gov.br/pt-br/apps/ctps-digital"
+      }
+    ]
+  },
+  {
+    "id": "eleitoral",
+    "nome": "Título de eleitor e serviços eleitorais",
+    "categoria": "Cidadania",
+    "descricao": "Primeiro título, transferência, revisão e consultas eleitorais.",
+    "atalhos": [
+      "titulo de eleitor",
+      "titulo eleitoral",
+      "titulo",
+      "e titulo",
+      "etitulo",
+      "justificar voto",
+      "justificativa eleitoral",
+      "zona eleitoral",
+      "tse",
+      "transferir titulo",
+      "eleitor"
+    ],
+    "orientacoes": [
+      "Entre no Autoatendimento Eleitoral do Tribunal Superior Eleitoral (TSE).",
+      "Escolha a operação desejada, como primeiro título, transferência, revisão ou consulta.",
+      "Leia os requisitos e os prazos que aparecem no serviço oficial antes de iniciar a solicitação.",
+      "Consulte o aplicativo e-Título para recursos digitais e informações eleitorais disponíveis."
+    ],
+    "observacoes": "Prazos e disponibilidade de operações eleitorais podem variar, especialmente perto de eleições. Confirme no TSE.",
+    "fontes": [
+      {
+        "titulo": "TSE — Autoatendimento Eleitoral",
+        "orgao": "Tribunal Superior Eleitoral",
+        "url": "https://www.tse.jus.br/servicos-eleitorais/titulo-eleitoral/autoatendimento-eleitoral"
+      },
+      {
+        "titulo": "TSE — Aplicativo e-Título",
+        "orgao": "Tribunal Superior Eleitoral",
+        "url": "https://www.tse.jus.br/servicos-eleitorais/servicos/aplicativo-e-titulo/aplicativo-e-titulo"
+      }
+    ]
+  },
+  {
+    "id": "cadunico",
+    "nome": "Cadastro Único (CadÚnico)",
+    "categoria": "Assistência social",
+    "descricao": "Onde procurar o cadastramento para programas sociais.",
+    "atalhos": [
+      "cadastro unico",
+      "cadunico",
+      "cad unico",
+      "cras",
+      "bolsa familia",
+      "programas sociais",
+      "beneficio social",
+      "baixa renda"
+    ],
+    "orientacoes": [
+      "Verifique as orientações sobre o Cadastro Único no portal oficial do Ministério do Desenvolvimento e Assistência Social.",
+      "Procure o CRAS ou outro posto municipal de cadastramento para saber onde realizar o atendimento presencial.",
+      "Confira quais documentos o município pede antes de se deslocar.",
+      "Estar inscrito no Cadastro Único não significa receber automaticamente todos os benefícios sociais."
+    ],
+    "observacoes": "O cadastramento é gratuito. Regras de programas sociais, documentos e elegibilidade devem ser consultados nos canais oficiais.",
+    "fontes": [
+      {
+        "titulo": "Cadastro Único — MDS",
+        "orgao": "Ministério do Desenvolvimento Social",
+        "url": "https://www.gov.br/mds/pt-br/acoes-e-programas/cadastro-unico/Cadastro-unico/"
+      },
+      {
+        "titulo": "Inscrever-se no Cadastro Único",
+        "orgao": "Portal gov.br",
+        "url": "https://www.gov.br/pt-br/servicos/inscrever-se-no-cadastro-unico-para-programas-sociais-do-governo-federal"
+      }
+    ]
+  },
+  {
+    "id": "sus",
+    "nome": "Meu SUS Digital e Cartão SUS",
+    "categoria": "Saúde",
+    "descricao": "Como acessar informações e a versão digital do Cartão Nacional de Saúde.",
+    "atalhos": [
+      "meu sus",
+      "sus digital",
+      "cartao sus",
+      "cartao nacional de saude",
+      "cns",
+      "carteirinha sus",
+      "sus",
+      "vacinas no sus",
+      "historico vacinacao"
+    ],
+    "orientacoes": [
+      "Acesse o Meu SUS Digital pelo portal ou aplicativo oficial do Ministério da Saúde.",
+      "Use o serviço oficial para consultar informações disponíveis, como o Cartão Nacional de Saúde digital.",
+      "Se os dados não aparecerem ou estiverem incorretos, consulte o atendimento oficial da plataforma.",
+      "Para dúvidas de atendimento presencial, procure a unidade de saúde do município."
+    ],
+    "observacoes": "Informações de saúde podem estar incompletas. Este assistente não realiza diagnóstico nem solicita dados clínicos ou números de cartão.",
+    "fontes": [
+      {
+        "titulo": "Ministério da Saúde — Meu SUS Digital",
+        "orgao": "Ministério da Saúde",
+        "url": "https://www.gov.br/saude/pt-br/composicao/seidigi/meususdigital/perguntas-e-respostas/cidadao"
+      },
+      {
+        "titulo": "Como acessar o cartão CNS",
+        "orgao": "Ministério da Saúde",
+        "url": "https://www.gov.br/saude/pt-br/composicao/seidigi/meususdigital/perguntas-e-respostas/cidadao/9-como-faco-o-cartao"
+      }
+    ]
+  },
+  {
+    "id": "govbr",
+    "nome": "Conta gov.br",
+    "categoria": "Serviços digitais",
+    "descricao": "Como criar uma conta gov.br para acessar serviços públicos online.",
+    "atalhos": [
+      "conta gov br",
+      "gov br",
+      "govbr",
+      "criar conta gov",
+      "login gov",
+      "senha gov",
+      "recuperar acesso gov",
+      "esqueci minha senha gov"
+    ],
+    "orientacoes": [
+      "Visite o serviço oficial 'Criar sua conta GOV.BR'.",
+      "Siga as orientações do próprio portal para criação ou recuperação de acesso.",
+      "Nunca compartilhe sua senha, códigos de autenticação ou documentos com este assistente.",
+      "Depois de acessar sua conta, escolha o serviço público de que precisa."
+    ],
+    "observacoes": "O Cidadão Fácil não cria contas nem intermedeia autenticação: o procedimento acontece somente no portal oficial.",
+    "fontes": [
+      {
+        "titulo": "Criar sua conta GOV.BR",
+        "orgao": "Portal gov.br",
+        "url": "https://www.gov.br/pt-br/servicos/criar-sua-conta-gov.br"
+      },
+      {
+        "titulo": "Aplicativo gov.br",
+        "orgao": "Portal gov.br",
+        "url": "https://www.gov.br/pt-br/apps/app-gov.br"
+      }
+    ]
+  }
+]
